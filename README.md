@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shubham Patil</h1>
 
-<!--
-**ShubhamSPatil10/ShubhamSPatil10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🚀 Data Engineer | Python • SQL • Spark • Databricks | Building Scalable Data Pipelines & ETL Solutions
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Data+Engineer;ETL+%2F+ELT+Developer;Big+Data+Specialist;Always+Learning+New+Things" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working as a **Data Analyst / Engineer at Snapmint**
+- 🌱 Advanced Expertise in **Building Large-Scale Data Pipelines & Automated Bureau Reporting**
+- 💻 Passionate about **Big Data Optimization, Workflow Orchestration, and Cloud Computing**
+- 📫 Reach me at **shubhamspatil2220@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/shubhamspatil2220/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="sql-server" />
+
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="spark" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="kafka" />
+  <img src="https://img.shields.io/badge/Hadoop-FFFF00?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="hadoop" />
+
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="databricks" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="airflow" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+
+  <img src="https://img.shields.io/badge/Tableau-E24329?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="powerbi" />
+
+</p>
+
+<h3 align="left">GitHub Stats:</h3>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShubhamSPatil10&show_icons=true&locale=en" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamSPatil10&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamSPatil10" />
+</p>
