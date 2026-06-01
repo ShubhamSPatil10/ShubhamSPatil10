@@ -43,17 +43,3 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="powerbi" />
 
 </p>
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShubhamSPatil10&show_icons=true&locale=en" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamSPatil10&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamSPatil10" />
-</p>
