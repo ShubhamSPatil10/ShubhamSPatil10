@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Data+Engineer;Data+Analyst;ETL+%2F+ELT+Developer;Big+Data+Specialist;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=100&center=true&vCenter=true&width=600&lines=Data+Engineer;Data+Analyst;ETL+%2F+ELT+Developer;Big+Data+Specialist;Always+Learning+New+Things" />
 </p>
 
 - 🔭 Currently working as a **Data Analyst / Engineer at Snapmint**
